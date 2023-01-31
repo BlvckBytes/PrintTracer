@@ -1,0 +1,9 @@
+# Auto-generated plugin.yml, generated at 2023/01/30 16:32:50 by org.bukkit.plugin.java.annotation.PluginAnnotationProcessor
+
+main: me.blvckbytes.printtracer.Main
+name: PrintTracer
+version: '0.1'
+author: BlvckBytes
+commands: {}
+permissions: {}
+api-version: '1.13'

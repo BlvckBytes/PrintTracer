@@ -1,0 +1,3 @@
+plugin.yml
+me/blvckbytes/printtracer/Main.class
+me/blvckbytes/printtracer/InstrumentedPrintStream.class
